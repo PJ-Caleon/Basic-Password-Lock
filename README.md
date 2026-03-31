@@ -12,5 +12,5 @@ First project using **ATmega328**, practicing on learning the AVR framework. As 
 1. SimulIDE - 1.1.0-SR1
 2. Visual Studio Code
 
-## 📺 Live Demo
-[Instagram Video](https://your-link-here.com)
+## Live Demo
+[Instagram Video](https://www.instagram.com/reel/DWivzNciBcQ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
